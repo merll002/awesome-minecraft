@@ -214,7 +214,7 @@ _Minecraft server software._
 - [Nukkit](https://github.com/CloudburstMC/Nukkit) - Server software for Minecraft: Bedrock Edition.
 - [Paper](https://github.com/papermc/paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
 - [Sponge](https://github.com/SpongePowered/Sponge) - A community-driven open source Minecraft: Java Edition modding platform.
-- [Purpur](https://purpurmc.org/) - A replacement for paper with performance enhancements and more configurability.
+- [Purpur](https://purpurmc.org/) - A replacement for Paper with more configurability.
 
 ## Tools
 _Miscellaneous tools._
